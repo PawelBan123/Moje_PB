@@ -2,11 +2,8 @@
 <html>
 <head>
 <meta charset="UTF-8" />
-<<<<<<< HEAD
-<title>Poprawna nazwa strony</title>
-=======
-<title>Zmieniona nazwa strony/title>
->>>>>>> Development
+<title>Nowa nazwa strony</title>
+<p>Losowy tekst</p>
 </head>
 <body>
 </body>
